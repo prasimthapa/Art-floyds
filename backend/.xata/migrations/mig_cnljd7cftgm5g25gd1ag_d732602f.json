@@ -1,0 +1,13 @@
+{
+  "id": "mig_cnljd7cftgm5g25gd1ag",
+  "parentID": "mig_cnljbvquns06l108npjg",
+  "checksum": "1:d732602fb03a839d159d8fb3cd2dbea96a31e79abf7b75626646b217b621f645",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "icon",
+        "table": "socialMedia"
+      }
+    }
+  ]
+}

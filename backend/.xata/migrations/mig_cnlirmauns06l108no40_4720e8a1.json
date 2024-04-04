@@ -1,0 +1,13 @@
+{
+  "id": "mig_cnlirmauns06l108no40",
+  "parentID": "mig_cnlirikftgm5g25gcvm0",
+  "checksum": "1:4720e8a18eb62cd29046a572b74ef675a2079e69a15a41adc820df37cc4631f4",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "buyer",
+        "table": "cart"
+      }
+    }
+  ]
+}

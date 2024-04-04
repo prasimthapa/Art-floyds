@@ -1,0 +1,13 @@
+{
+  "id": "mig_cnlj2rcftgm5g25gd03g",
+  "parentID": "mig_cnlj2mib1a23a5t9fd0g",
+  "checksum": "1:403adadbd0dc01ead1f5f7e81d28a321e2fb991af4db26fd3d71df1b3d49ac47",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "userSocialMedia",
+        "oldName": "user_social_media"
+      }
+    }
+  ]
+}

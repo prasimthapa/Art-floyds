@@ -1,0 +1,18 @@
+{
+  "id": "mig_cnl216nb1forrfhq4r50",
+  "parentID": "mig_cnl20ksdrf6qkrro1u7g",
+  "checksum": "1:5c7fb20b75e06654af3369d6aafc9b9b99374246ce883e7fb08a47382ea3a37f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "provider",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": ""
+        },
+        "table": "account"
+      }
+    }
+  ]
+}

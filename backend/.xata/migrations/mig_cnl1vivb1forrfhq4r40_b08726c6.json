@@ -1,0 +1,18 @@
+{
+  "id": "mig_cnl1vivb1forrfhq4r40",
+  "parentID": "mig_cnl1vcfb1forrfhq4r30",
+  "checksum": "1:b08726c6502a19a8a82f44011940aa8665ef6131817da3f2d70dbb38ecb41775",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "emailVerified",
+          "type": "bool",
+          "notNull": true,
+          "defaultValue": "false"
+        },
+        "table": "user"
+      }
+    }
+  ]
+}

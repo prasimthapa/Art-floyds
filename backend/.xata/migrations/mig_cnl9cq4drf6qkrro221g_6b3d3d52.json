@@ -1,0 +1,13 @@
+{
+  "id": "mig_cnl9cq4drf6qkrro221g",
+  "parentID": "mig_cnl9cjsdrf6qkrro220g",
+  "checksum": "1:6b3d3d52da46461fd7963343cf1d5d50aaf38dff0315d637f132540f6bbed692",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "nextauth_sessions",
+        "oldName": "session"
+      }
+    }
+  ]
+}

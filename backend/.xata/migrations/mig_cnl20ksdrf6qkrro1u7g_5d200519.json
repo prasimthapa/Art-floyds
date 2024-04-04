@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnl20ksdrf6qkrro1u7g",
+  "parentID": "mig_cnl20bsdrf6qkrro1u6g",
+  "checksum": "1:5d2005196cd426e4215cb4e8fe6ebf06f54ead0a3288b17a60a8f90a611b99f9",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "user_id",
+          "type": "link",
+          "link": {
+            "table": "user"
+          }
+        },
+        "table": "account"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mig_cnl2534drf6qkrro1ufg",
+  "parentID": "mig_cnl24pvb1forrfhq4ra0",
+  "checksum": "1:d69063475511a5750a23b99dad16891bc982e2dbfcd33c538c37494d5b6fbcad",
+  "operations": [
+    {
+      "addTable": {
+        "table": "artwork"
+      }
+    }
+  ]
+}

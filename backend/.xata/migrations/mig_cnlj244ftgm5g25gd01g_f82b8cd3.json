@@ -1,0 +1,17 @@
+{
+  "id": "mig_cnlj244ftgm5g25gd01g",
+  "parentID": "mig_cnlj204ftgm5g25gd00g",
+  "checksum": "1:f82b8cd35d2a66ae04f02e0540fdbda1813223d6444e7ad01b3cc90d8bdc15e8",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "url",
+          "type": "string",
+          "unique": true
+        },
+        "table": "socialMedia"
+      }
+    }
+  ]
+}

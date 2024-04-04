@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnn07uquns06l108o5ig",
+  "parentID": "mig_cnn07nab1a23a5t9fr20",
+  "checksum": "1:8feb419bfc7fc2269247885dec11e25bfc11a12f73c4923baf15d596a0ea5c78",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "attachments",
+          "type": "file[]",
+          "file[]": {
+            "defaultPublicAccess": true
+          }
+        },
+        "table": "forum"
+      }
+    }
+  ]
+}

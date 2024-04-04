@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnl9dlvb1forrfhq4su0",
+  "parentID": "mig_cnl9dicdrf6qkrro223g",
+  "checksum": "1:93b35c003b4ae7864a46ce4812029b1ff1bfd26545f5a319bee8576b020f4f65",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "user",
+        "oldName": "user_id",
+        "table": "nextauth_sessions"
+      }
+    }
+  ]
+}

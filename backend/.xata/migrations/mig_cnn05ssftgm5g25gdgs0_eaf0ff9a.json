@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnn05ssftgm5g25gdgs0",
+  "parentID": "mig_cnn05giuns06l108o5g0",
+  "checksum": "1:eaf0ff9a48958fde27d9238b8fdea0fc8e8a42f33b686379dc4de278404e8026",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "initiator",
+          "type": "link",
+          "link": {
+            "table": "nextauth_users"
+          }
+        },
+        "table": "forum"
+      }
+    }
+  ]
+}

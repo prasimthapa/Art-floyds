@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnlirikftgm5g25gcvm0",
+  "parentID": "mig_cnlip14ftgm5g25gcvj0",
+  "checksum": "1:0530121db4b646187e37a95c4bd4131c312ba2e87d0b51d326a5b694b7e06a00",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "buyer",
+          "type": "link",
+          "link": {
+            "table": "nextauth_users"
+          }
+        },
+        "table": "cart"
+      }
+    }
+  ]
+}

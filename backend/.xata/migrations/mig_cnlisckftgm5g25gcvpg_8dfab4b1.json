@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnlisckftgm5g25gcvpg",
+  "parentID": "mig_cnlis3sftgm5g25gcvng",
+  "checksum": "1:8dfab4b1dc8e72d6c0ee8164ebc9cb660deac7986666625510208bd8a62d0186",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "cart",
+          "type": "link",
+          "link": {
+            "table": "cart"
+          }
+        },
+        "table": "cartItem"
+      }
+    }
+  ]
+}

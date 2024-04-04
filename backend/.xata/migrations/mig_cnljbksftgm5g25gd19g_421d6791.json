@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnljbksftgm5g25gd19g",
+  "parentID": "mig_cnlj36sftgm5g25gd05g",
+  "checksum": "1:421d6791bb197109f013fd188d5563cbac799d07b5dced23a7d4ba89c7033def",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "icon",
+        "oldName": "url",
+        "table": "socialMedia"
+      }
+    }
+  ]
+}

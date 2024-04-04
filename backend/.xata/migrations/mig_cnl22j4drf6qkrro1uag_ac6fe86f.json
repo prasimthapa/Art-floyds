@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnl22j4drf6qkrro1uag",
+  "parentID": "mig_cnl22h4drf6qkrro1u9g",
+  "checksum": "1:ac6fe86fdfad624733b26fd05a1c8b82fcadfe0bda1f06507d437ed64765ae18",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "scope",
+          "type": "string"
+        },
+        "table": "account"
+      }
+    }
+  ]
+}

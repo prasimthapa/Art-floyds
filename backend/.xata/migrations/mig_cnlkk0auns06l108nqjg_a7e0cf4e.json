@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnlkk0auns06l108nqjg",
+  "parentID": "mig_cnlkjg4ftgm5g25gd2gg",
+  "checksum": "1:a7e0cf4e97ced0fd4563c16964091dfac6af102ea4332d1c34249ca7072d2893",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "order",
+          "type": "link",
+          "link": {
+            "table": "order"
+          }
+        },
+        "table": "orderArtwork"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mig_cnlum8cftgm5g25gd5kg",
+  "parentID": "mig_cnlulnquns06l108nvmg",
+  "checksum": "1:55c26a83fa946bdc209e1e6347698ddb370091bb3fa3ff49e02da9c553967a26",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "status",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "pending"
+        },
+        "table": "order"
+      }
+    }
+  ]
+}

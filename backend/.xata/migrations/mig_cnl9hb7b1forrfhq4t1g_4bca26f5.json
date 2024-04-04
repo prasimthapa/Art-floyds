@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnl9hb7b1forrfhq4t1g",
+  "parentID": "mig_cnl9ghkssqr4cpi91cr0",
+  "checksum": "1:4bca26f5985893259f4642e2df78d4ca4b4bc0ec00b161dd0ae3b40dc9a1a091",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "image",
+          "type": "file",
+          "file": {
+            "defaultPublicAccess": true
+          }
+        },
+        "table": "artwork"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "mig_cnl25vvb1forrfhq4rc0",
+  "parentID": "mig_cnl25r4drf6qkrro1uhg",
+  "checksum": "1:f91e465ffe5a53f26b3133b4197e40aac8f54067e7a2cbeb8735c32db6cda860",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "updated_at",
+          "type": "datetime",
+          "defaultValue": "now"
+        },
+        "table": "artwork"
+      }
+    }
+  ]
+}

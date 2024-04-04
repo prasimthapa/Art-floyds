@@ -1,0 +1,17 @@
+{
+  "id": "mig_cnlivv2uns06l108no7g",
+  "parentID": "mig_cnlivnsftgm5g25gcvtg",
+  "checksum": "1:1972d85dbad474d1095500a5ec7de1e214f96a22e099200b20bca2d2bfcf1948",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "user_id",
+          "type": "string",
+          "unique": true
+        },
+        "table": "cart"
+      }
+    }
+  ]
+}

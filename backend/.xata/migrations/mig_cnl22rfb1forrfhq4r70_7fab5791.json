@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnl22rfb1forrfhq4r70",
+  "parentID": "mig_cnl22mkssqr4cpi91b80",
+  "checksum": "1:7fab5791905a5cf1ac796485b7327450592f1aaaa0aaa0e32b15108ba40fa8e7",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "session_state",
+          "type": "string"
+        },
+        "table": "account"
+      }
+    }
+  ]
+}

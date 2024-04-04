@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnljdbsftgm5g25gd1bg",
+  "parentID": "mig_cnljd7cftgm5g25gd1ag",
+  "checksum": "1:327a7bb00d7d10cb6e600fea871f4f12182de8b2a686e44191b20968477b07c3",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "icon",
+          "type": "file",
+          "file": {
+            "defaultPublicAccess": true
+          }
+        },
+        "table": "socialMedia"
+      }
+    }
+  ]
+}

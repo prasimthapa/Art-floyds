@@ -1,0 +1,18 @@
+{
+  "id": "mig_cnmkle4ftgm5g25gdc9g",
+  "parentID": "mig_cnlum8cftgm5g25gd5kg",
+  "checksum": "1:499a9d6a5b1123eb8be98f4c378b8b244930f55abf325091d8295e45209fbe2b",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "role",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "buyer"
+        },
+        "table": "nextauth_users"
+      }
+    }
+  ]
+}

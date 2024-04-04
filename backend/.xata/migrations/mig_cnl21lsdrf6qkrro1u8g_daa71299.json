@@ -1,0 +1,18 @@
+{
+  "id": "mig_cnl21lsdrf6qkrro1u8g",
+  "parentID": "mig_cnl21dfb1forrfhq4r60",
+  "checksum": "1:daa71299690117f543cf75923a43b32fa4d1fe12928e863279fdd8601cacd316",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "refresh_token",
+          "type": "text",
+          "notNull": true,
+          "defaultValue": ""
+        },
+        "table": "account"
+      }
+    }
+  ]
+}

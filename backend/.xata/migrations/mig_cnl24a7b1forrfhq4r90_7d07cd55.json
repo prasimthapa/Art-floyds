@@ -1,0 +1,17 @@
+{
+  "id": "mig_cnl24a7b1forrfhq4r90",
+  "parentID": "mig_cnl23ccdrf6qkrro1ue0",
+  "checksum": "1:7d07cd55213d3d31bb6af3ef90ac59c332eebacca5c2d84dbcba306a9bb75441",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "session_token",
+          "type": "string",
+          "unique": true
+        },
+        "table": "session"
+      }
+    }
+  ]
+}

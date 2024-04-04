@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnll7fab1a23a5t9ffl0",
+  "parentID": "mig_cnll79kftgm5g25gd2s0",
+  "checksum": "1:b04168a58e109fff8bc866b21beb9187763c9d9df90333d7b185ed15bae10848",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "attachments",
+          "type": "file[]",
+          "file[]": {
+            "defaultPublicAccess": true
+          }
+        },
+        "table": "chatMessage"
+      }
+    }
+  ]
+}

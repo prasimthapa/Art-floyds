@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnl25b4drf6qkrro1ugg",
+  "parentID": "mig_cnl256fb1forrfhq4rb0",
+  "checksum": "1:8fc12a156e54b1145d8f302c45b8d8695ca0bf9feb3515fa8c903d514dbf6e1c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "artistId",
+          "type": "link",
+          "link": {
+            "table": "user"
+          }
+        },
+        "table": "artwork"
+      }
+    }
+  ]
+}

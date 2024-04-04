@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnn06qab1a23a5t9fr0g",
+  "parentID": "mig_cnn06icftgm5g25gdgtg",
+  "checksum": "1:0e93249571cef48b5c572b78ff75281e076951509620345344b9283a17744a36",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "replies",
+          "type": "link",
+          "link": {
+            "table": "forum"
+          }
+        },
+        "table": "forum"
+      }
+    }
+  ]
+}

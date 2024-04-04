@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnl256fb1forrfhq4rb0",
+  "parentID": "mig_cnl2534drf6qkrro1ufg",
+  "checksum": "1:729c8323230e66988e2a28666243edc44ed06f46e008a5fd1d030e27e4118f0e",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "name",
+          "type": "string"
+        },
+        "table": "artwork"
+      }
+    }
+  ]
+}

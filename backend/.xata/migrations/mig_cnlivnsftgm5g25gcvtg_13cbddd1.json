@@ -1,0 +1,13 @@
+{
+  "id": "mig_cnlivnsftgm5g25gcvtg",
+  "parentID": "mig_cnliticftgm5g25gcvqg",
+  "checksum": "1:13cbddd112719f780db2d17e140918034afecbbd98c93688e4b69c04eec019e9",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "buyer",
+        "table": "cart"
+      }
+    }
+  ]
+}

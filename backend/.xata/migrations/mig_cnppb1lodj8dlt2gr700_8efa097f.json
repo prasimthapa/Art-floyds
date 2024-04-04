@@ -1,0 +1,17 @@
+{
+  "id": "mig_cnppb1lodj8dlt2gr700",
+  "parentID": "mig_cnppafqjudikupjdpgsg",
+  "checksum": "1:8efa097f4ffe8226302f2713f725ee0e9d08d5a9c5b9d43e4f9a6f7cf29ed9e8",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "userId",
+          "type": "string",
+          "unique": true
+        },
+        "table": "follow"
+      }
+    }
+  ]
+}

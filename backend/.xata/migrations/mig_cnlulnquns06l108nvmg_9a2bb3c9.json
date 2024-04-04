@@ -1,0 +1,18 @@
+{
+  "id": "mig_cnlulnquns06l108nvmg",
+  "parentID": "mig_cnlldf2uns06l108nqvg",
+  "checksum": "1:9a2bb3c9664db75d5e857df1c4776761f89d11b074b98857d48c507a6939cc45",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "availableQuantity",
+          "type": "int",
+          "notNull": true,
+          "defaultValue": "0"
+        },
+        "table": "artwork"
+      }
+    }
+  ]
+}

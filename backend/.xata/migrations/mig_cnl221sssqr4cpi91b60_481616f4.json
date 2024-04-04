@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnl221sssqr4cpi91b60",
+  "parentID": "mig_cnl21tcssqr4cpi91b50",
+  "checksum": "1:481616f43a94d2433bdc1556e00e945b5bc6f8bf7acba9abb55caf30e7c6108a",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "access_token",
+          "type": "text"
+        },
+        "table": "account"
+      }
+    }
+  ]
+}

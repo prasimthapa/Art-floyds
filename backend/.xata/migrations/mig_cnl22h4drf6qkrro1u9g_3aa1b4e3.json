@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnl22h4drf6qkrro1u9g",
+  "parentID": "mig_cnl225cssqr4cpi91b70",
+  "checksum": "1:3aa1b4e3c97550f278b017550ce096945ab5807581331a68dac2ecac23c0d2e0",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "token_type",
+          "type": "string"
+        },
+        "table": "account"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnqj5jdodj8dlt2grg1g",
+  "parentID": "mig_cnqj3mo6bd2ce5jmdnfg",
+  "checksum": "1:a9bfd5ebac9d99ce09c42e5b1a1b4b09192a464c5015ff3aaba68d7142d03256",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "owner",
+          "type": "link",
+          "link": {
+            "table": "nextauth_users"
+          }
+        },
+        "table": "chat"
+      }
+    }
+  ]
+}

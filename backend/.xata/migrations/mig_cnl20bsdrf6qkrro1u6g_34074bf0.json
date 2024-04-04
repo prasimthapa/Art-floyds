@@ -1,0 +1,12 @@
+{
+  "id": "mig_cnl20bsdrf6qkrro1u6g",
+  "parentID": "mig_cnl201cdrf6qkrro1u50",
+  "checksum": "1:34074bf09857c30d15c37039f81f60debb85d1776efa3435223f259a8d870ba6",
+  "operations": [
+    {
+      "addTable": {
+        "table": "account"
+      }
+    }
+  ]
+}

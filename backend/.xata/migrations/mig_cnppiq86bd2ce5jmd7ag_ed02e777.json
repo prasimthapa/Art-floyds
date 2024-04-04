@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnppiq86bd2ce5jmd7ag",
+  "parentID": "mig_cnppimlodj8dlt2gr73g",
+  "checksum": "1:ed02e777727e47dd480d956254b0268e8955a2d85edd2c6c9a825796633377a2",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "follower",
+          "type": "link",
+          "link": {
+            "table": "nextauth_users"
+          }
+        },
+        "table": "follower"
+      }
+    }
+  ]
+}

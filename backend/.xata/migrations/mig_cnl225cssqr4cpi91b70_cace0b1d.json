@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnl225cssqr4cpi91b70",
+  "parentID": "mig_cnl221sssqr4cpi91b60",
+  "checksum": "1:cace0b1d68ae938651ae13ce5b63982981905c3ee3150e7bffbaed0e3c47412b",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "expires_at",
+          "type": "int"
+        },
+        "table": "account"
+      }
+    }
+  ]
+}

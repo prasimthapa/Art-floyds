@@ -1,0 +1,12 @@
+{
+  "id": "mig_cnppiaijudikupjdph30",
+  "parentID": "mig_cnppi6todj8dlt2gr72g",
+  "checksum": "1:ccd1fca9dfe21e2e6e1a7eac904da1a405f2c65cfd963f59ac6d1e4704aec99b",
+  "operations": [
+    {
+      "addTable": {
+        "table": "following"
+      }
+    }
+  ]
+}

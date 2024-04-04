@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnllc7cftgm5g25gd2t0",
+  "parentID": "mig_cnll7fab1a23a5t9ffl0",
+  "checksum": "1:9fc8d4d1db15b2a1ffee75cf13612da5ed30e3324dba8abf8ec48f1ad9a06d7f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "title",
+          "type": "string"
+        },
+        "table": "chat"
+      }
+    }
+  ]
+}

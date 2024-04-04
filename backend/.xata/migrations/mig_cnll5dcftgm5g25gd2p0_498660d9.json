@@ -1,0 +1,12 @@
+{
+  "id": "mig_cnll5dcftgm5g25gd2p0",
+  "parentID": "mig_cnll2pib1a23a5t9ffh0",
+  "checksum": "1:498660d986699dbe51ed1502fc78ecae6ba6e36fe43348fe640b20060e2b08ca",
+  "operations": [
+    {
+      "addTable": {
+        "table": "chatMember"
+      }
+    }
+  ]
+}

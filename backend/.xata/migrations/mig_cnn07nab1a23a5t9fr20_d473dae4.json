@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnn07nab1a23a5t9fr20",
+  "parentID": "mig_cnn06qab1a23a5t9fr0g",
+  "checksum": "1:d473dae4389ab6271870db8fa8c223541433c770c49daa3cc965c3f51ed82c34",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "message",
+          "type": "string"
+        },
+        "table": "forum"
+      }
+    }
+  ]
+}

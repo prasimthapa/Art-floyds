@@ -1,0 +1,18 @@
+{
+  "id": "mig_cnl268nb1forrfhq4rd0",
+  "parentID": "mig_cnl25vvb1forrfhq4rc0",
+  "checksum": "1:aacc86b36cd6e9cf53dbc196656a00f30b61ba6245c5de72404978ba2aa388dc",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "price",
+          "type": "int",
+          "notNull": true,
+          "defaultValue": "0"
+        },
+        "table": "artwork"
+      }
+    }
+  ]
+}

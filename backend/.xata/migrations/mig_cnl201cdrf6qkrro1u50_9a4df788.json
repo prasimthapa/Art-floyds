@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnl201cdrf6qkrro1u50",
+  "parentID": "mig_cnl1vivb1forrfhq4r40",
+  "checksum": "1:9a4df788fe3be0ecf7295a17d44c4b6b1a5e04b786cf318e76a99d36935c43fc",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "image",
+          "type": "string"
+        },
+        "table": "user"
+      }
+    }
+  ]
+}

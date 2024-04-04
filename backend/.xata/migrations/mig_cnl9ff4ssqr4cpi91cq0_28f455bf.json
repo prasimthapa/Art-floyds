@@ -1,0 +1,13 @@
+{
+  "id": "mig_cnl9ff4ssqr4cpi91cq0",
+  "parentID": "mig_cnl9dt7b1forrfhq4sv0",
+  "checksum": "1:28f455bfc1ddcf45073f184ce081be8b33666653c33b8ef521473c12498e07af",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "emailVerified",
+        "table": "nextauth_users"
+      }
+    }
+  ]
+}

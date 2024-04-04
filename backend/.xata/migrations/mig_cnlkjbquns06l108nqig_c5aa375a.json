@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnlkjbquns06l108nqig",
+  "parentID": "mig_cnlkd5ab1a23a5t9feqg",
+  "checksum": "1:c5aa375a8f60edda67c528d0b5cb4ca8bae9960944621019ed59efa362c30c10",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "artwork",
+          "type": "link",
+          "link": {
+            "table": "artwork"
+          }
+        },
+        "table": "orderProduct"
+      }
+    }
+  ]
+}

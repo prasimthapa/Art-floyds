@@ -1,0 +1,18 @@
+{
+  "id": "mig_cnljtqqb1a23a5t9feg0",
+  "parentID": "mig_cnljm7sftgm5g25gd1p0",
+  "checksum": "1:50c22f8493a3c5a3190592c688010020a63f0e67e0627f541bc46bd743fb0b16",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "category",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "general"
+        },
+        "table": "artwork"
+      }
+    }
+  ]
+}

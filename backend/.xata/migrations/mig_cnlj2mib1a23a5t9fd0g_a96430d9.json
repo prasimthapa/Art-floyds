@@ -1,0 +1,12 @@
+{
+  "id": "mig_cnlj2mib1a23a5t9fd0g",
+  "parentID": "mig_cnlj244ftgm5g25gd01g",
+  "checksum": "1:a96430d9ec25521902984de0a01fca17bbf7d3ea28a595b1d666f289a9105cb7",
+  "operations": [
+    {
+      "addTable": {
+        "table": "user_social_media"
+      }
+    }
+  ]
+}

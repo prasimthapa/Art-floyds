@@ -1,0 +1,16 @@
+{
+  "id": "mig_cnljgb4ftgm5g25gd1e0",
+  "parentID": "mig_cnljdbsftgm5g25gd1bg",
+  "checksum": "1:0b5ad0b540dc22186af7e993204860a4d0a98c272dcb58037255937f359fb82c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "contactInfo",
+          "type": "multiple"
+        },
+        "table": "nextauth_users"
+      }
+    }
+  ]
+}

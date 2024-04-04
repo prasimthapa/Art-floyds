@@ -1,0 +1,13 @@
+{
+  "id": "mig_cnl9dekssqr4cpi91cp0",
+  "parentID": "mig_cnl9d94ssqr4cpi91co0",
+  "checksum": "1:910c8cbb9f228fa55e3a4af785d2320d61a512434b71c6ee1f2928ce33ee1c81",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "expires",
+        "table": "artwork"
+      }
+    }
+  ]
+}

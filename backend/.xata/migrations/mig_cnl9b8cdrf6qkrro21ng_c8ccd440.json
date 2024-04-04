@@ -1,0 +1,13 @@
+{
+  "id": "mig_cnl9b8cdrf6qkrro21ng",
+  "parentID": "mig_cnl9ahsdrf6qkrro21mg",
+  "checksum": "1:c8ccd440da339926025e1f79e39f5c4c3d540a9cd5f49189f612f840402f8bdc",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "updated_at",
+        "table": "artwork"
+      }
+    }
+  ]
+}

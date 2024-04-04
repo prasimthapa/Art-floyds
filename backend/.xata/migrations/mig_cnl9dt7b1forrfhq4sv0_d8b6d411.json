@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnl9dt7b1forrfhq4sv0",
+  "parentID": "mig_cnl9dlvb1forrfhq4su0",
+  "checksum": "1:d8b6d4114305f7423a289c0a41ad570d5da49fdc32f7a5ea6cd03c07b57a724f",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "artist",
+        "oldName": "artistId",
+        "table": "artwork"
+      }
+    }
+  ]
+}

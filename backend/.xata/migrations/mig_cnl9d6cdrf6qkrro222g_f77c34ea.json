@@ -1,0 +1,13 @@
+{
+  "id": "mig_cnl9d6cdrf6qkrro222g",
+  "parentID": "mig_cnl9d34ssqr4cpi91cn0",
+  "checksum": "1:f77c34ea060f37a32d472b12d1dfd8ce348c0977ea73b2b490ce381738d92173",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "expires",
+        "table": "nextauth_sessions"
+      }
+    }
+  ]
+}

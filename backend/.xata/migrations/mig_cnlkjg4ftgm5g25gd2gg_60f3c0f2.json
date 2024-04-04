@@ -1,0 +1,13 @@
+{
+  "id": "mig_cnlkjg4ftgm5g25gd2gg",
+  "parentID": "mig_cnlkjbquns06l108nqig",
+  "checksum": "1:60f3c0f2e559e626f5314a00b5680326c92203d164c8dd43031a64be88f85275",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "orderArtwork",
+        "oldName": "orderProduct"
+      }
+    }
+  ]
+}

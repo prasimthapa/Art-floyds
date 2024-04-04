@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnn06icftgm5g25gdgtg",
+  "parentID": "mig_cnn05ssftgm5g25gdgs0",
+  "checksum": "1:72743c9554ea6e0aff20ddbc9990a0415f90a88147c193df16d15af69fc18c5b",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "user",
+        "oldName": "initiator",
+        "table": "forum"
+      }
+    }
+  ]
+}

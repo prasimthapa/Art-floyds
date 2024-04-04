@@ -1,0 +1,18 @@
+{
+  "id": "mig_cnl24pvb1forrfhq4ra0",
+  "parentID": "mig_cnl24i4ssqr4cpi91b9g",
+  "checksum": "1:928ee669d93b0e18ae18748294a16f5c8d4a79c5ed036d5a75edb9793e440433",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "expires",
+          "type": "datetime",
+          "notNull": true,
+          "defaultValue": "2024-03-08T00:00:00.000Z"
+        },
+        "table": "session"
+      }
+    }
+  ]
+}

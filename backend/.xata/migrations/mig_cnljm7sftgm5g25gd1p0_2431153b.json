@@ -1,0 +1,14 @@
+{
+  "id": "mig_cnljm7sftgm5g25gd1p0",
+  "parentID": "mig_cnljks2b1a23a5t9fe60",
+  "checksum": "1:2431153be4ba990257508449c7f2a7724c40f075ab668c3f84e347ab6f6e6978",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "secondaryAttachments",
+        "oldName": "secondaryImages",
+        "table": "artwork"
+      }
+    }
+  ]
+}

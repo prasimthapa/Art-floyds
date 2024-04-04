@@ -1,0 +1,12 @@
+{
+  "id": "mig_cnli23ib1a23a5t9fcig",
+  "parentID": "mig_cnl9hb7b1forrfhq4t1g",
+  "checksum": "1:6f9994ab26563495b50efad7e91b7149635f22bfb2daf2056c9d608b3364afc7",
+  "operations": [
+    {
+      "addTable": {
+        "table": "wishlist"
+      }
+    }
+  ]
+}

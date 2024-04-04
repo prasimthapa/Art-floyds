@@ -1,0 +1,19 @@
+{
+  "id": "mig_cnll2pib1a23a5t9ffh0",
+  "parentID": "mig_cnll2bquns06l108nqt0",
+  "checksum": "1:3c5dd838e6a057020fa9354d4653d5d94c9cfaf00116df32d1952c4e020cc1e9",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "sender",
+          "type": "link",
+          "link": {
+            "table": "nextauth_users"
+          }
+        },
+        "table": "chatMessage"
+      }
+    }
+  ]
+}
