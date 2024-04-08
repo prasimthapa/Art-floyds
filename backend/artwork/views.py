@@ -20,11 +20,13 @@ def update(request):
 
 def all(request):
     limit = request.GET.get("limit")
+    print(request)
     if not limit:
         res = xata.data().query("artwork", {
             "columns": ["name", "price", "style", "artist.*", "image.url"]
         })
     else:
+        print(request)
         res = xata.data().query("artwork", {
             "page": {
                 "size": int(limit)
@@ -67,6 +69,7 @@ def by(request):
 @protected
 def search(request, user):
     input_search = request.GET.get('q', None)
+    print(input_search)
     user_id = user["id"]
     sort = request.GET.get("sort")
     style = request.GET.get("style")
@@ -81,7 +84,9 @@ def search(request, user):
     if has_sort:
         sort_val = [{price: order}]
 
+
     def all_artworks():
+        print('anzjdnm')
         return xata.data().query("artwork", {"sort": sort_val})["records"]
 
     if not input_search and not has_sort:
